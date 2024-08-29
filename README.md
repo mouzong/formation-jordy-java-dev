@@ -1,4 +1,4 @@
-# formation-jordy-java-dev
+# formation-Phil-java-dev
 
 Programme de cours complet pour la formation de développeur Java de A à Z, avec une section dédiée à Spring Boot. <br>
 Cette formation est divisée en plusieurs modules, allant des concepts de base à des sujets avancés.
